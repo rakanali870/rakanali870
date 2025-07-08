@@ -1,4 +1,5 @@
 ## Hi there 👋
+- 🌱 I’m currently learning about Generative AI and Coding in BSMP!
 
 <!--
 **rakanali870/rakanali870** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
